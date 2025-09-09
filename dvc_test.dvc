@@ -1,0 +1,6 @@
+outs:
+- md5: 903ab6f9a4ebe87f416c78778230c1a2.dir
+  size: 14
+  nfiles: 1
+  hash: md5
+  path: dvc_test
