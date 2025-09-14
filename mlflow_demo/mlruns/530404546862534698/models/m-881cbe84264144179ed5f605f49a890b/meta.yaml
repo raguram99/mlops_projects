@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/530404546862534698/models/m-881cbe84264144179ed5f605f49a890b/artifacts
+creation_timestamp: 1757786981562
+experiment_id: '530404546862534698'
+last_updated_timestamp: 1757787077183
+model_id: m-881cbe84264144179ed5f605f49a890b
+model_type: null
+name: decision_tree_classifier
+source_run_id: c324c923aea34dcdac5ac33c90c68cd4
+status: 2
+status_message: null

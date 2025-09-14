@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/530404546862534698/80da7c48eaa34f55b5f430bf2e3ba83a/artifacts
+end_time: 1757786701189
+entry_point_name: ''
+experiment_id: '530404546862534698'
+lifecycle_stage: active
+run_id: 80da7c48eaa34f55b5f430bf2e3ba83a
+run_name: carefree-flea-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757786618891
+status: 3
+tags: []
+user_id: Dell

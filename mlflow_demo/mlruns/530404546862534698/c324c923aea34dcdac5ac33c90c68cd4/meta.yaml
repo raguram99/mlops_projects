@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/530404546862534698/c324c923aea34dcdac5ac33c90c68cd4/artifacts
+end_time: 1757787079750
+entry_point_name: ''
+experiment_id: '530404546862534698'
+lifecycle_stage: active
+run_id: c324c923aea34dcdac5ac33c90c68cd4
+run_name: delightful-steed-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757786980484
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/808824639846863351/79709328d46e403c88c9dd00692120a9/artifacts
+end_time: 1757787573165
+entry_point_name: ''
+experiment_id: '808824639846863351'
+lifecycle_stage: active
+run_id: 79709328d46e403c88c9dd00692120a9
+run_name: worried-vole-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757787516591
+status: 3
+tags: []
+user_id: Dell

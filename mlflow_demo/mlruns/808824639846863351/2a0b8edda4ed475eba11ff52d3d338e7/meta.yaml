@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/808824639846863351/2a0b8edda4ed475eba11ff52d3d338e7/artifacts
+end_time: 1757786979593
+entry_point_name: ''
+experiment_id: '808824639846863351'
+lifecycle_stage: active
+run_id: 2a0b8edda4ed475eba11ff52d3d338e7
+run_name: mercurial-conch-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757786849417
+status: 3
+tags: []
+user_id: Dell
