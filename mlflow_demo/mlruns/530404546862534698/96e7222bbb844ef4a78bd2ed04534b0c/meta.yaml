@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/530404546862534698/96e7222bbb844ef4a78bd2ed04534b0c/artifacts
+end_time: 1757838612637
+entry_point_name: ''
+experiment_id: '530404546862534698'
+lifecycle_stage: active
+run_id: 96e7222bbb844ef4a78bd2ed04534b0c
+run_name: delicate-yak-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757838554403
+status: 3
+tags: []
+user_id: Dell

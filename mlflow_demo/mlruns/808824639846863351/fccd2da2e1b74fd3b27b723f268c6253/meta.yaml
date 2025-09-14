@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/808824639846863351/fccd2da2e1b74fd3b27b723f268c6253/artifacts
+end_time: 1757838553077
+entry_point_name: ''
+experiment_id: '808824639846863351'
+lifecycle_stage: active
+run_id: fccd2da2e1b74fd3b27b723f268c6253
+run_name: skillful-deer-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757838456017
+status: 3
+tags: []
+user_id: Dell

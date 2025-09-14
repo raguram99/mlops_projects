@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Dell/Documents/mlops_projects/mlflow_demo/mlruns/808824639846863351/models/m-28ed3f8103814a568efcd6957df1156b/artifacts
+creation_timestamp: 1757838459159
+experiment_id: '808824639846863351'
+last_updated_timestamp: 1757838552720
+model_id: m-28ed3f8103814a568efcd6957df1156b
+model_type: null
+name: random_forest_classifier
+source_run_id: fccd2da2e1b74fd3b27b723f268c6253
+status: 2
+status_message: null
